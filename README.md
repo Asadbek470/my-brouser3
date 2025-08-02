@@ -1,13 +1,11 @@
 # my-brouser3
 my brouser3
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Браузер "Реки"</title>
+    <title>Браузер "riki меня создал Abdumalikov Asadbek "</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
